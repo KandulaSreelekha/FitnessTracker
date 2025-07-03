@@ -1,21 +1,25 @@
 
 # 🏋‍♂ FitnessTracker
 
-A web-based *Fitness Tracker* that helps users set fitness goals, track their nutrition, monitor progress, and receive personalized recommendations based on their activities.
+A web-based Fitness Tracker that empowers users to set fitness goals, track their nutrition, monitor progress, and receive personalized recommendations based on their activities and dietary habits.
 
 ## 🚀 Features
-- ✅ *User Authentication* – Login & registration system.
-- ✅ *Goal Setting* – Users can set fitness goals (weight loss, muscle gain, hydration, etc.).
-- ✅ *Personalized Recommendations* – Based on user goals.
-- ✅ *Nutrition Information* – Displays nutritional values of various foods.
-- ✅ *Water & Calorie Tracking* – Graphical representation of intake & consumption.
-- ✅ *Meal Logging* – Users can log what they ate and track nutrients.
-- ✅ *Progress Dashboard* – Visual reports & analytics on fitness progress.
-
+- ✅ User Authentication – Secure login & registration system for users and admins.
+- ✅ Goal Setting – Users can set and update fitness goals (weight loss, muscle gain, maintain weight, endurance, manage stress).
+- ✅ Personalized Recommendations – Nutrition and activity suggestions tailored to user goals and age.
+- ✅ Nutrition Information – Displays nutritional values for a wide variety of foods.
+- ✅ Water & Calorie Tracking – Graphical representation of daily water and calorie intake vs. goals
+- ✅ Meal Logging – Log meals (breakfast, lunch, dinner, snacks) and track calories, carbs, fat, protein, sodium, and sugar.
+- ✅ Progress Dashboard – Visual reports, analytics, and pie charts to monitor fitness and nutrition progress over time.
 ## 🛠 Tech Stack
 - *Frontend:* HTML, CSS
 - *Backend:* PHP
 - *Database:* MySQL (phpMyAdmin)
+- 
+## 🎥 Demo Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AefxWLpgXyE" frameborder="0" allowfullscreen></iframe>
+
+  
 
 ## 💻 Installation & Setup
 ### 1️⃣ Clone the Repository
