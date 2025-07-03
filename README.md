@@ -1,7 +1,10 @@
 
 # 🏋‍♂ FitnessTracker
-
 A web-based Fitness Tracker that empowers users to set fitness goals, track their nutrition, monitor progress, and receive personalized recommendations based on their activities and dietary habits.
+
+## 🎥 Demo Video
+[Watch the demo on YouTube](https://youtu.be/AefxWLpgXyE)
+
 
 ## 🚀 Features
 - ✅ User Authentication – Secure login & registration system for users and admins.
@@ -15,12 +18,7 @@ A web-based Fitness Tracker that empowers users to set fitness goals, track thei
 - *Frontend:* HTML, CSS
 - *Backend:* PHP
 - *Database:* MySQL (phpMyAdmin)
-- 
-## 🎥 Demo Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AefxWLpgXyE" frameborder="0" allowfullscreen></iframe>
-
   
-
 ## 💻 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
